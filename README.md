@@ -77,11 +77,3 @@ The theme colors and other design tokens can be modified in:
 ### Components
 
 All components are modular and can be found in the `components/` directory. Each component is self-contained and can be easily modified or replaced.
-
-## Deployment
-
-This project is configured for static exports and can be deployed to any static hosting platform:
-
-```bash
-npm run build
-```
